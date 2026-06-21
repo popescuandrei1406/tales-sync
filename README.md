@@ -1,6 +1,6 @@
 # Tales Sync
 
-**Tales Sync** is a collaborative, AI-powered multiplayer storytelling game. Players can create or join lobbies, co-write stories in real-time, and leverage the power of Google's Gemini AI to dynamically generate story paths, choices, and thematic elements.
+**Tales Sync** is a collaborative, AI-powered multiplayer storytelling game. Players can create or join lobbies, co-write stories in real-time, and leverage the power of Google's Gemini AI to dynamically generate story paths, choices, and thematic elements. This project was created during the Google AI Hackathon '26.
 
 ---
 
